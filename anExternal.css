@@ -1,0 +1,20 @@
+html{
+	background-color: grey;
+	
+}
+
+object{
+	float: right;
+}	
+
+.dots{
+	border-style: dotted;
+	color: lightblue;
+	border-radius: 25px;
+}
+
+.pic{
+	margin: 20px;
+}
+
+
